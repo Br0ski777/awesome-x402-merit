@@ -80,6 +80,8 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
 
+- [Br0ski777 API Factory](https://www.x402scan.com/recipient/0x6E8B64638b24C6D625b045dD353120d850064E2E) – 100 production x402 APIs for AI agents: B2B enrichment, crypto/DeFi, Hyperliquid (7 APIs), prediction markets, SEO, NLP, utilities. $0.001–$0.02 USDC per call on Base, no API keys. ([GitHub](https://github.com/Br0ski777))
+
 
 ### Security & Ops
 - [x402 Whitepaper – Security Section](https://www.x402.org/x402-whitepaper.pdf)
